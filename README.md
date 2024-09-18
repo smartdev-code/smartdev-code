@@ -1,6 +1,6 @@
 ## Hi there, I'm Vladyslav 👋
 
-![Developer at work]([[https://dce0qyjkutl4h.cloudfront.net/wp-content/webp-express/webp-images/uploads/2024/01/MEAN-Stack-Vs-Full-Stack.png.webp]) <!-- Replace with the URL of your cover image -->
+![Developer at work]([https://dce0qyjkutl4h.cloudfront.net/wp-content/webp-express/webp-images/uploads/2024/01/MEAN-Stack-Vs-Full-Stack.png.webp]) <!-- Replace with the URL of your cover image -->
 
 I’m a passionate developer skilled in creating scalable, modular applications with a focus on performance and usability. I'm always looking for new challenges and ways to improve my skills.
 
@@ -11,7 +11,7 @@ I’m a passionate developer skilled in creating scalable, modular applications 
 Here's a categorized list of my skills:
 
 #### Frontend
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
@@ -21,7 +21,7 @@ Here's a categorized list of my skills:
 </div>
 
 #### Backend
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django"/>
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask"/>
@@ -37,14 +37,14 @@ Here's a categorized list of my skills:
 </div>
 
 #### Version Control
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square" alt="GitLab"/>
 </div>
 
 #### Project Management Tools
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat-square" alt="Trello"/>
   <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square" alt="Jira"/>
   <img src="https://img.shields.io/badge/-Asana-F06A6A?logo=asana&logoColor=white&style=flat-square" alt="Asana"/>
