@@ -1,7 +1,5 @@
 ## Hi there, I'm Vladyslav 👋
 
-![Developer at work]([https://dce0qyjkutl4h.cloudfront.net/wp-content/webp-express/webp-images/uploads/2024/01/MEAN-Stack-Vs-Full-Stack.png.webp]) <!-- Replace with the URL of your cover image -->
-
 I’m a passionate developer skilled in creating scalable, modular applications with a focus on performance and usability. I'm always looking for new challenges and ways to improve my skills.
 
 ---
@@ -30,7 +28,7 @@ Here's a categorized list of my skills:
 </div>
 
 #### Database
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"/>
