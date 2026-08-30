@@ -1,4 +1,4 @@
-## Hi there, I'm Vladyslav 👋
+## Hi there👋
 
 I’m a passionate developer skilled in creating scalable, modular applications with a focus on performance and usability. I'm always looking for new challenges and ways to improve my skills.
 
