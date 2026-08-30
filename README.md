@@ -1,72 +1,136 @@
-## Hi there👋
+## Hi there 👋
 
-I’m a passionate developer skilled in creating scalable, modular applications with a focus on performance and usability. I'm always looking for new challenges and ways to improve my skills.
-
----
-
-### 🚀 Tech Stack
-
-Here's a categorized list of my skills:
-
-#### Frontend
-<div>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React"/>
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square" alt="jQuery"/>
-</div>
-
-#### Backend
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square" alt="Django"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" alt="Flask"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square" alt="Laravel"/>
-</div>
-
-#### Database
-<div>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB"/>
-</div>
-
-#### Version Control
-<div>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square" alt="GitLab"/>
-</div>
-
-#### Project Management Tools
-<div>
-  <img src="https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat-square" alt="Trello"/>
-  <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square" alt="Jira"/>
-  <img src="https://img.shields.io/badge/-Asana-F06A6A?logo=asana&logoColor=white&style=flat-square" alt="Asana"/>
-</div>
+I'm a passionate Full-Stack Software Developer who enjoys building scalable, high-performance applications and solving challenging technical problems. I love learning new technologies and continuously expanding my skill set—from traditional web development to AI, blockchain, automation, and low-level software analysis.
 
 ---
 
-### 🧑‍💻 What I’m Currently Working On
+## 🚀 Tech Stack
 
-I'm developing exciting projects with a focus on:
-- Improving usability and performance for web applications.
-- Creating animations and visual effects with `jQuery` and `Three.js`.
-- Working on image manipulation with `OpenCV` for web applications.
+### 🌐 Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React
+* Vue.js
+* jQuery
+* Three.js
+* Bootstrap
+* Tailwind CSS
+
+### ⚙️ Backend
+
+* Python
+* Django
+* Flask
+* FastAPI
+* PHP
+* Laravel
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+* SQLite
+
+### 🤖 Automation & Web Scraping
+
+* Selenium
+* Playwright
+* BeautifulSoup
+* Scrapy
+* Requests
+* Puppeteer
+* Browser Automation
+* Data Extraction
+
+### 🔗 Web3 & Blockchain
+
+* Solidity
+* Smart Contract Development
+* Ethereum
+* ERC-20 / ERC-721
+* Web3.js
+* Ethers.js
+* Wallet Integration
+* MetaMask
+* DeFi Fundamentals
+
+### 👁️ Computer Vision & AI
+
+* OpenCV
+* Image Processing
+* OCR
+* Computer Vision
+* AI API Integration
+* LLM Integration
+
+### 🔍 Reverse Engineering & Security
+
+* Static Analysis
+* Dynamic Analysis
+* Binary Analysis
+* Debugging
+* Ghidra
+* IDA Pro (Basic)
+* x64dbg
+* Wireshark
+
+### ☁️ DevOps & Cloud
+
+* Docker
+* Linux
+* Nginx
+* Apache
+* GitHub Actions
+* CI/CD
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* GitLab
+* Jira
+* Trello
+* Asana
+* VS Code
+* Postman
 
 ---
 
-### 📈 GitHub Stats
+## 💼 What I'm Working On
 
-![Vladyslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+* Building scalable SaaS applications
+* Web3 and blockchain-based solutions
+* Automation and web scraping systems
+* AI-powered applications and workflow automation
+* Computer vision projects using OpenCV
+* Performance optimization for modern web applications
+* Interactive 3D experiences using Three.js
 
 ---
 
-### ✨ Fun Fact
+## 📈 GitHub Stats
 
-I love creating smooth animations with `Three.js` and exploring new design patterns in modern web frameworks.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
 
+---
 
+## 🌱 Currently Learning
+
+* Advanced Smart Contract Security
+* Reverse Engineering & Malware Analysis
+* AI Agents & Multi-Agent Systems
+* High-performance backend architecture
+* Cloud-native application deployment
+
+---
+
+## ✨ Fun Fact
+
+I enjoy turning complex ideas into real products—whether that's a SaaS platform, an automation bot, a blockchain application, or a computer vision project. I'm always excited to learn the next technology that helps solve real-world problems.
